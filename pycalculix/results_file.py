@@ -822,7 +822,6 @@ class ResultsFile(object):
             return(displNodes)
         else:
             print("must pass 'x' or 'y' for displacement direction")
-            break
         
 
     def get_emax(self, field, time=None, mode='avg'):
