@@ -202,7 +202,7 @@ pip3 uninstall pycalculix
 ## Devlopment
 - Download this repo
 ```
-git clone git@github.com:joeborrello/pycalculix.git
+git clone https://github.com/joeborrello/pycalculix.git
 ```
 - Make python3 virtual env
 ```
